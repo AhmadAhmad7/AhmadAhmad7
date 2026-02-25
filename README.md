@@ -9,8 +9,10 @@
 
 <!-- Filament Badge -->
 <img alt="Filament" src="https://img.shields.io/badge/-Filament-FFAA00?style=flat-square&logo=filament&logoColor=black" />
+
+<img alt="Livewire" src="https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  
 
 </p>
 <h3>Open source projects</h3>
