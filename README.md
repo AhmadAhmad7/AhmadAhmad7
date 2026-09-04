@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Ahmad, Laravel Backend developer from  <b>Syria</b> </p>
+<p>Welcome to my page! </br> I'm Ahmad, a Laravel Backend Developer from <b>Syria</b>, currently transitioning into Odoo Development.
 <h3>Things I code with</h3>
 <p>
 	<!-- Laravel Badge -->
@@ -13,6 +13,6 @@
 <img alt="Livewire" src="https://img.shields.io/badge/-Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   
-
+<img alt="Odoo" src="https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
 </p>
 
